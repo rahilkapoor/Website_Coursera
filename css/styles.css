@@ -5,13 +5,13 @@
 
 .row-content {
 	margin: 0px auto;
-	padding: 50px 0 50px 0;
+	padding: 100px 0 100px 0;
 	border-bottom: 1px ridge;
 	min-height: 400px;
 }
 
 .footer {
-	background-color: blueviolet;
+	background-color: #b3b1b1;
 	margin: 0 auto;
 	padding: 20px 0 20px 0;
 }
@@ -19,12 +19,12 @@
 .jumbotron {
 	padding: 70px 30px;
 	margin: 0 auto;
-	background: purple;
+	background: #8867c3;
 	color: floralwhite;
 }
 
 .address {
 	font-size: 80%;
 	margin: 0;
-	color: #222;
+	color: #000;
 }
